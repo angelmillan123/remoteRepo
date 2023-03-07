@@ -1,1 +1,6 @@
 ¡Hola freeCodeCamp! 
+
+
+
+git reset --soft HEAD~1  --> regresa al comit anterior manteniendo cambios
+git reset --hard HEAD~1  --> regresa pero sin conservar cambios
